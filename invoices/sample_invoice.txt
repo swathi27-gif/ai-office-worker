@@ -1,0 +1,7 @@
+INVOICE
+
+Company: ABC Technologies
+Invoice Number: INV-1001
+Invoice Date: 01/10/2026
+Due Date: 31/10/2026
+Total Amount: INR 12,500.00
